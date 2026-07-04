@@ -4,6 +4,8 @@
 
 *An introduction to Python for people getting ready for the Discovery Piscine, working through the Python modules, or just starting to program.*
 
+*ps: credit for 42 Lisbon for teaching me these concepts and letting me be able to teach them
+
 ## Table of Contents
 
 1. [What is Python](#1-what-is-python)
